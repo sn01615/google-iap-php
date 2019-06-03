@@ -1,0 +1,20 @@
+{
+  "name": "sn01615/google-iap-php",
+  "description": "Google iap verify",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "YangLong",
+      "email": "168119405@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "sn01615\\": "src/"
+    }
+  },
+  "require": {
+    "ext-openssl": "*"
+  }
+}
